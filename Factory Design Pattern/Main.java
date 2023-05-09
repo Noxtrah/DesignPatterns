@@ -1,4 +1,4 @@
-//Doğa Kayra Yılmazarslan 20070006049
+//Doğa Kayra Yılmazarslan
 public class Main {
     public static void main(String[] args){
         PizzaStore nyStore = new NYPizzaStore();
